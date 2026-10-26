@@ -1,0 +1,14 @@
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Temporary outputs
+*.log
+*.tmp
